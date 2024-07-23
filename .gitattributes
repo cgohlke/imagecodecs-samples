@@ -9,6 +9,7 @@
 *.jls binary
 *.jxl binary
 *.jxr binary
+*.jxs binary
 *.lerc2 binary
 *.ljpg binary
 *.png binary

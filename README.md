@@ -1,6 +1,6 @@
 # Image file samples
 
-![Sample image](images/rgb_u1.png "Sample image")
+![Sample image](sample.png "Sample image")
 
 This repository provides small, synthetic image files generated with the
 [imagecodecs](https://github.com/cgohlke/imagecodecs) and
@@ -8,7 +8,7 @@ This repository provides small, synthetic image files generated with the
 using various options:
 
 - formats: APNG, AVIF, BMP, GIF, HEIF, JPEG, JPEG LL, JPEG 2000, JPEG LS, 
-  JPEG XL, JPEG XR, LERC, PNG, QOI, RGBE, TIFF, WebP, ZFP
+  JPEG XL, JPEG XR, JPEG XS, LERC, PNG, QOI, RGBE, TIFF, WebP, ZFP
 - compression: Deflate, LZMA, LZW, PackBits, ZStandard
 - data types: unsigned and signed integer, floating point
 - bit depths: 8, 16, 24, 32, 64-bit
