@@ -1,6 +1,6 @@
-# Image file samples
+<img src="./sample.png" height="64" align="right" style="height:64px;" />
 
-![Sample image](sample.png "Sample image")
+# Image file samples
 
 This repository provides small, synthetic image files generated with the
 [imagecodecs](https://github.com/cgohlke/imagecodecs) and
