@@ -1,6 +1,7 @@
 *.apng binary
 *.avif binary
 *.bmp binary
+*.exr binary
 *.gif binary
 *.heif binary
 *.jpg binary

@@ -7,7 +7,7 @@ This repository provides small, synthetic image files generated with the
 [tifffile](https://github.com/cgohlke/tifffile) libraries
 using various options:
 
-- formats: APNG, AVIF, BMP, GIF, HEIF, JPEG, JPEG LL, JPEG LS, JPEG XL,
+- formats: APNG, AVIF, BMP, EXR, GIF, HEIF, JPEG, JPEG LL, JPEG LS, JPEG XL,
   JPEG XR, JPEG XS, JPEG 2000 (J2K, JP2, HTJ2K), Ultra HDR (JPEG_R), 
   LERC, PNG, QOI, RGBE, TIFF, WebP, ZFP
 - compression: Deflate, LZMA, LZW, PackBits, CCITT, PixarLog, ZStandard
