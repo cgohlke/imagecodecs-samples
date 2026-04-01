@@ -1,6 +1,7 @@
 *.apng binary
 *.avif binary
 *.bmp binary
+*.dcx binary
 *.exr binary
 *.gif binary
 *.heif binary
@@ -13,9 +14,11 @@
 *.jxs binary
 *.lerc2 binary
 *.ljpg binary
+*.pcx binary
 *.png binary
 *.qoi binary
 *.rgbe binary
+*.tga binary
 *.tif binary
 *.webp binary
 *.zfp binary
